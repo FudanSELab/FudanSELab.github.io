@@ -14,7 +14,7 @@
     - [Replication Package](https://fudanselab.github.io/Research-ESEC-FSE2019-DomainGlossary/)
 
 3. "A Large-Scale Empirical Study of Compiler Errors in Continuous Integration"
-    - TODO:authods
+    - TODO:Chen Zhang, Bihuan Chen, Linlin Chen, Xin Peng, Wenyun Zhao
     - The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2019)
     - [Replication Package](https://compilererrorinci.github.io/)
 
