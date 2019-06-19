@@ -19,7 +19,7 @@
     - [Replication Package](https://compilererrorinci.github.io/)
 
 4. "Latent Error Prediction and Fault Localization for Microservice Applications by Learning from System Trace Logs", 
-    - TODO:authods
+    - TODO:Xiang Zhou, Xin Peng, Tao Xie, Jun Sun, Chao Ji, Dewei Liu, Qilin Xiang and Chuan He
     - The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2019)
     - [Replication Package](http://139.180.136.187/aiops/)
 
