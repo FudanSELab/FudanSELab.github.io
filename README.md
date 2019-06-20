@@ -1,6 +1,6 @@
 ## Tools
 1. [CodeWisdom](http://bigcode.fudan.edu.cn), This is the platform we developed, with our various tools and research work demos, including Code Recommendation, API Knowledge Graph, Code Clone, etc. Welcome to try and give advice.
-2. [aiAssistant](https://github.com/FudanSELab/aiAssistant) is a plugin of IntelliJ IDEA based on big data and deep learning, which provides following features:
+2. [CodeWisdom-aiAssistant](https://github.com/FudanSELab/aiAssistant) is a plugin of IntelliJ IDEA based on big data and deep learning, which provides following features:
     * Recommend top-10 APIs for one line at a time. The APIs include API method calls, API field accesses in JDK 1.8 library and control structures such as if, while.
     * Complete arguments (parameters) in each recommended API.
     * Auto-add import information when a recommended API is selected.
