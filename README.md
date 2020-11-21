@@ -7,6 +7,12 @@
     * Provide API description of each recommended API.
 
 ## Research Papers
+### 2020
+1. "Generating Concept based API Element Comparison Using a Knowledge Graph"
+    - Yang Liu, Mingwei Liu, Xin Peng, Christoph Treude, Zhenchang Xing, Xiaoxin Zhang
+    - The 35th IEEE/ACM International Conference on Automated Software Engineering (ASE 2020)
+    - [Replication Package](https://github.com/FudanSELab/Research-ASE2020-APIComp)
+        
 ### 2019 
 1. "Generating Query-specific Class API Summaries"
     - Mingwei Liu, Xin Peng, Andrian Marcus, Zhenchang Xing, Wenkai Xie, Shuangshuang Xing, and Yang Liu
