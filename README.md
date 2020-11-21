@@ -9,9 +9,17 @@
 ## Research Papers
 ### 2020
 1. "Generating Concept based API Element Comparison Using a Knowledge Graph"
-    - Yang Liu, Mingwei Liu, Xin Peng, Christoph Treude, Zhenchang Xing, Xiaoxin Zhang
+    - Yang Liu, Mingwei Liu, Xin Peng, Christoph Treude, Zhenchang Xing, and Xiaoxin Zhang
     - The 35th IEEE/ACM International Conference on Automated Software Engineering (ASE 2020)
     - [Replication Package](https://github.com/FudanSELab/Research-ASE2020-APIComp)
+    
+2. "API Method Recommendation via Explicit Matching of Functionality Verb Phrases"
+   - Wenkai Xie, Xin Peng, Mingwei Liu, Zhenchang Xing, Xiaoxin Zhang, and Wenyun Zhao
+   - The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2020)
+   - [Replication Package](https://fudanselab.github.io/Research-FSE2020-FuncVerb/)
+   - [Tool](https://github.com/FudanSELab/funcverbnet)
+
+
         
 ### 2019 
 1. "Generating Query-specific Class API Summaries"
